@@ -105,9 +105,10 @@ zsh-syntax-highlighting
 rvm
 ```
 
-# Older versions that need manual downloading
+# Manual downloads
 
 ```
 textexpander
 fantastical
+expressvpn
 ```
