@@ -95,6 +95,7 @@ screaming-frog-seo-spider
 java
 private-internet-access
 noizio
+rescuetime
 ```
 
 # Misc installs
