@@ -88,7 +88,6 @@ transmission
 transmit
 vlc
 google-chrome-beta
-dropbox
 1password
 carbon-copy-cloner
 screaming-frog-seo-spider
@@ -109,7 +108,8 @@ rvm
 # Manual downloads
 
 ```
-textexpander
-fantastical
-expressvpn
+textexpander # Download older version
+fantastical # Download older version
+expressvpn # No cask
+dropbox # Cask version doesn't have finder integration
 ```
