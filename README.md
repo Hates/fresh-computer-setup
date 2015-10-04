@@ -7,9 +7,10 @@ A collection of packages that I use to get up and running with a fresh install. 
 moom
 evernote
 limechat
-day one
+dayone
 harvest
 todoist
+mindnodepro
 ```
 
 # Homebrew installs
