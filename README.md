@@ -58,7 +58,6 @@ macdown
 mailplane
 marsedit
 ngrok
-onepassword
 plex-media-server
 postgres
 querious
