@@ -76,6 +76,7 @@ sublime-text
 tower
 transmission
 transmit
+tunnelblick
 vlc
 1password
 carbon-copy-cloner
@@ -97,6 +98,5 @@ rvm
 ```
 textexpander # Download older version
 fantastical # Download older version
-expressvpn # No cask
 dropbox # Cask version doesn't have finder integration
 ```
