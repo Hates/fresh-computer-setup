@@ -40,31 +40,22 @@ brew install --HEAD neovim
 # Symlink casks to real Applications
 export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 --
-brew install caskroom/cask/brew-cask
+brew tap caskroom/cask
 brew tap caskroom/versions
 --
-airfoil
 appcleaner
 backblaze
 bartender
 catch
-cyberduck
-dash
-firefox
-flash
 gitup
 handbrake
-helium
 hipchat
-instacast
 iterm2-nightly
 jadengeller-helium
 kaleidoscope
 launchbar
-macclean
 macdown
 mailplane
-mamp
 marsedit
 ngrok
 onepassword
@@ -74,28 +65,24 @@ querious
 recordit
 reflector
 scansnap-manager
-selfcontrol
 focus
 skitch
 skype
+slack
 slicy
 soulver
 spotify
 steermouse
 sublime-text
-things
 tower
 transmission
 transmit
 vlc
-google-chrome-beta
 1password
 carbon-copy-cloner
 screaming-frog-seo-spider
 java
-private-internet-access
 noizio
-rescuetime
 ```
 
 # Misc installs
