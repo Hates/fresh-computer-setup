@@ -6,18 +6,16 @@ A collection of packages that I use to get up and running with a fresh install. 
 ```
 moom
 evernote
-limechat
 dayone
-harvest
 todoist
-mindnodepro
+marked2
 ```
 
 # Homebrew installs
 
 ```
 git 
-vim 
+vim --with-lua
 tmux 
 reattach-to-user-namespace 
 the_silver_searcher 
@@ -28,10 +26,6 @@ ctags-exuberant
 
 # Custom pgcli install so as to skip postgres install
 --build-from-source pgcli
-
-# NeoVim
-brew tap neovim/neovim
-brew install --HEAD neovim
 ```
 
 # Homebrew cask installs
@@ -49,9 +43,7 @@ bartender
 catch
 gitup
 handbrake
-hipchat
 iterm2-nightly
-jadengeller-helium
 kaleidoscope
 launchbar
 macdown
@@ -59,7 +51,6 @@ mailplane
 marsedit
 ngrok
 plex-media-server
-postgres
 querious
 recordit
 reflector
@@ -72,7 +63,6 @@ slicy
 soulver
 spotify
 steermouse
-sublime-text
 tower
 transmission
 transmit
@@ -80,7 +70,6 @@ tunnelblick
 vlc
 1password
 carbon-copy-cloner
-screaming-frog-seo-spider
 java
 noizio
 ```
@@ -88,9 +77,9 @@ noizio
 # Misc installs
 
 ```
+rvm
 oh-my-zsh
 zsh-syntax-highlighting
-rvm
 ```
 
 # Manual downloads
@@ -99,4 +88,11 @@ rvm
 textexpander # Download older version
 fantastical # Download older version
 dropbox # Cask version doesn't have finder integration
+```
+# Docker
+
+```
+mysql
+postgres
+elasticsearch
 ```
