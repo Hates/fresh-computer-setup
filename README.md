@@ -44,6 +44,7 @@ catch
 gitup
 handbrake
 iterm2-nightly
+jadengeller-helium
 kaleidoscope
 launchbar
 macdown
