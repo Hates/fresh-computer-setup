@@ -8,6 +8,7 @@ moom
 evernote
 dayone
 todoist
+bear
 ```
 
 # Homebrew installs
