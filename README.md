@@ -8,7 +8,6 @@ moom
 evernote
 dayone
 todoist
-marked2
 ```
 
 # Homebrew installs
@@ -16,9 +15,9 @@ marked2
 ```
 git 
 vim --with-lua
+fzf
 tmux 
 reattach-to-user-namespace 
-the_silver_searcher 
 imagemagick 
 redis
 phantomjs
@@ -38,9 +37,9 @@ brew tap caskroom/cask
 brew tap caskroom/versions
 --
 appcleaner
+apptivate
 backblaze
 bartender
-catch
 gitup
 handbrake
 iterm2-nightly
@@ -49,12 +48,9 @@ kaleidoscope
 launchbar
 macdown
 mailplane
-marsedit
 ngrok
-plex-media-server
-querious
+sequel-pro-nightly
 recordit
-reflector
 scansnap-manager
 focus
 skitch
@@ -67,11 +63,11 @@ steermouse
 tower
 transmission
 transmit
-tunnelblick
 vlc
 1password
 carbon-copy-cloner
 java
+viscosity
 noizio
 ```
 
@@ -96,4 +92,5 @@ dropbox # Cask version doesn't have finder integration
 mysql
 postgres
 elasticsearch
+redis
 ```
