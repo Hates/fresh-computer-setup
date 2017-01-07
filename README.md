@@ -15,7 +15,6 @@ bear
 
 ```
 git 
-vim --with-lua
 fzf
 tmux 
 reattach-to-user-namespace 
@@ -23,6 +22,7 @@ imagemagick
 redis
 phantomjs
 ctags-exuberant
+vim --with-lua
 
 # Custom pgcli install so as to skip postgres install
 --build-from-source pgcli
@@ -37,23 +37,29 @@ export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 brew tap caskroom/cask
 brew tap caskroom/versions
 --
+1password
 appcleaner
 apptivate
 backblaze
 bartender
+carbon-copy-cloner
+discord
+focus
 gitup
 handbrake
+irccloud
 iterm2-nightly
 jadengeller-helium
+java
 kaleidoscope
 launchbar
 macdown
 mailplane
 ngrok
-sequel-pro-nightly
+noizio
 recordit
 scansnap-manager
-focus
+sequel-pro-nightly
 skitch
 skype
 slack
@@ -64,12 +70,8 @@ steermouse
 tower
 transmission
 transmit
-vlc
-1password
-carbon-copy-cloner
-java
 viscosity
-noizio
+vlc
 ```
 
 # Misc installs
