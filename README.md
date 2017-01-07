@@ -28,6 +28,12 @@ vim --with-lua
 --build-from-source pgcli
 ```
 
+# NeoVim
+
+```
+brew install --HEAD --with-release neovim
+```
+
 # Homebrew cask installs
 
 ```
