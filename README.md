@@ -19,9 +19,10 @@ fzf
 tmux 
 reattach-to-user-namespace 
 imagemagick 
-redis
 phantomjs
 ctags-exuberant
+redis
+mysql
 vim --with-lua
 
 # Custom pgcli install so as to skip postgres install
@@ -62,7 +63,7 @@ launchbar
 macdown
 mailplane
 ngrok
-noizio
+postgres
 recordit
 scansnap-manager
 sequel-pro-nightly
@@ -83,7 +84,7 @@ vlc
 # Misc installs
 
 ```
-rvm
+chruby
 oh-my-zsh
 zsh-syntax-highlighting
 ```
@@ -94,12 +95,4 @@ zsh-syntax-highlighting
 textexpander # Download older version
 fantastical # Download older version
 dropbox # Cask version doesn't have finder integration
-```
-# Docker
-
-```
-mysql
-postgres
-elasticsearch
-redis
 ```
