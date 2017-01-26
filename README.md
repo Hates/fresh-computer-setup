@@ -24,16 +24,13 @@ phantomjs
 ctags-exuberant
 redis
 mysql
-vim --with-lua
-
-# Custom pgcli install so as to skip postgres install
---build-from-source pgcli
 ```
 
-# NeoVim
+# Vim/NeoVim
 
 ```
-brew install --HEAD --with-release neovim
+brew install vim --with-lua
+brew install --HEAD --with-release neovim/neovim/neovim
 ```
 
 # Homebrew cask installs
@@ -63,6 +60,7 @@ kaleidoscope
 launchbar
 macdown
 mailplane
+monodraw
 ngrok
 postgres
 recordit
