@@ -49,6 +49,7 @@ backblaze
 bartender
 carbon-copy-cloner
 discord
+dropbox
 focus
 gitup
 handbrake
@@ -93,5 +94,4 @@ zsh-syntax-highlighting
 ```
 textexpander # Download older version
 fantastical # Download older version
-dropbox # Cask version doesn't have finder integration
 ```
