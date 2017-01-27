@@ -76,6 +76,7 @@ slicy
 soulver
 spotify
 steermouse
+the_silver_searcher
 tower
 transmission
 transmit
