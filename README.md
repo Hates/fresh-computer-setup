@@ -66,6 +66,7 @@ mailplane
 monodraw
 ngrok
 postgres
+postman
 recordit
 scansnap-manager
 sequel-pro-nightly
