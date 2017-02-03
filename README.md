@@ -82,6 +82,7 @@ tower
 transmission
 transmit
 viscosity
+visual-studio-code
 vlc
 ```
 
