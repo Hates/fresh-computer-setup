@@ -18,6 +18,8 @@ bear
 ```
 git 
 fzf
+ripgrep
+the_silver_searcher
 tmux 
 reattach-to-user-namespace 
 imagemagick 
