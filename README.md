@@ -11,6 +11,7 @@ quiver
 todoist
 medis
 bear
+things3
 ```
 
 # Homebrew installs
