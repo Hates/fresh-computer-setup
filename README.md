@@ -1,19 +1,6 @@
 # fresh_computer_setup
 A collection of packages that I use to get up and running with a fresh install. Quite important when running a Hackintosh :sweat:
 
-# App Store installs
-
-```
-moom
-evernote
-dayone
-quiver
-todoist
-medis
-bear
-things3
-```
-
 # Homebrew installs
 
 ```
