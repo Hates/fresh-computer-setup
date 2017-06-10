@@ -18,15 +18,11 @@ bear
 ```
 git 
 fzf
-ripgrep
 the_silver_searcher
 tmux 
-reattach-to-user-namespace 
-imagemagick 
-phantomjs
-ctags-exuberant
-redis
-mysql
+imagemagick
+redis ?
+mysql ?
 ```
 
 # Vim/NeoVim
@@ -47,7 +43,6 @@ brew tap caskroom/versions
 --
 1password
 appcleaner
-apptivate
 backblaze
 bartender
 carbon-copy-cloner
@@ -79,9 +74,7 @@ slicy
 soulver
 spotify
 steermouse
-the_silver_searcher
 tower
-transmission
 transmit
 viscosity
 visual-studio-code
@@ -91,7 +84,7 @@ vlc
 # Misc installs
 
 ```
-chruby
+rbenv
 oh-my-zsh
 zsh-syntax-highlighting
 ```
