@@ -38,6 +38,7 @@ dash
 dropbox
 focus
 gitup
+google-chrome
 handbrake
 iterm2-nightly
 jadengeller-helium
