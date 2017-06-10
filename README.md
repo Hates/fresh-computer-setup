@@ -35,12 +35,10 @@ backblaze
 bartender
 carbon-copy-cloner
 dash
-discord
 dropbox
 focus
 gitup
 handbrake
-irccloud
 iterm2-nightly
 jadengeller-helium
 java
