@@ -62,6 +62,7 @@ spotify
 steermouse
 tower
 transmit
+unrarx
 viscosity
 visual-studio-code
 vlc
