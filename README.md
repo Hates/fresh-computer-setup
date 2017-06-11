@@ -9,6 +9,7 @@ fzf
 the_silver_searcher
 tmux 
 imagemagick
+zsh-syntax-highlighting
 redis ?
 mysql ?
 ```
@@ -23,8 +24,6 @@ brew install --HEAD --with-release neovim/neovim/neovim
 # Homebrew cask installs
 
 ```
-# Symlink casks to real Applications
-export HOMEBREW_CASK_OPTS="--appdir=/Applications"
 --
 brew tap caskroom/cask
 brew tap caskroom/versions
@@ -73,7 +72,6 @@ vlc
 ```
 rbenv
 oh-my-zsh
-zsh-syntax-highlighting
 ```
 
 # Manual downloads
