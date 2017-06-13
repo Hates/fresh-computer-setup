@@ -81,3 +81,13 @@ oh-my-zsh
 textexpander # Download older version
 fantastical # Download older version
 ```
+
+# Font
+```
+https://github.com/i-tu/Hasklig
+```
+
+# Theme
+```
+https://draculatheme.com/
+```
