@@ -29,6 +29,7 @@ brew tap caskroom/cask
 brew tap caskroom/versions
 --
 1password
+atext
 appcleaner
 backblaze
 bartender
@@ -78,16 +79,15 @@ oh-my-zsh
 # Manual downloads
 
 ```
-textexpander # Download older version
 fantastical # Download older version
 ```
 
 # Font
 ```
-https://github.com/i-tu/Hasklig
+[https://github.com/i-tu/Hasklig](https://github.com/i-tu/Hasklig)
 ```
 
 # Theme
 ```
-https://draculatheme.com/
+[https://draculatheme.com/](https://draculatheme.com/)
 ```
