@@ -6,12 +6,12 @@ A collection of packages that I use to get up and running with a fresh install. 
 ```
 git 
 fzf
-the_silver_searcher
 tmux 
+the_silver_searcher
 imagemagick
 zsh-syntax-highlighting
-redis ?
-mysql ?
+redis
+mysql
 ```
 
 # Vim/NeoVim
