@@ -7,9 +7,11 @@ A collection of packages that I use to get up and running with a fresh install. 
 git 
 fzf
 tmux 
-the_silver_searcher
+ctags
 imagemagick
+the_silver_searcher
 zsh-syntax-highlighting
+reattach-to-user-namespace
 redis
 mysql
 ```
