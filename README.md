@@ -6,7 +6,8 @@ A collection of packages that I use to get up and running with a fresh install. 
 ```
 git 
 fzf
-tmux 
+tmux
+macvim
 ctags
 imagemagick
 the_silver_searcher
