@@ -1,4 +1,4 @@
-# fresh_computer_setup
+# fresh-computer-setup
 A collection of packages that I use to get up and running with a fresh install. Quite important when running a Hackintosh :sweat:
 
 # Homebrew installs
