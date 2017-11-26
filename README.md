@@ -48,12 +48,14 @@ jadengeller-helium
 java
 kaleidoscope
 launchbar
+little-snitch
 macdown
 mailplane
 monodraw
 ngrok
+onyx
+paw
 postgres
-postman
 recordit
 scansnap-manager
 sequel-pro-nightly
