@@ -13,6 +13,7 @@ imagemagick
 the_silver_searcher
 zsh-syntax-highlighting
 reattach-to-user-namespace
+readline
 redis
 mysql
 ```
