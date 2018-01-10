@@ -35,6 +35,7 @@ brew tap caskroom/versions
 1password
 atext
 appcleaner
+authy
 backblaze
 bartender
 carbon-copy-cloner
