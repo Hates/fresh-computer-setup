@@ -56,6 +56,8 @@ mailplane
 monodraw
 ngrok
 onyx
+omnidisksweeper
+omnifocus
 paw
 postgres
 recordit
