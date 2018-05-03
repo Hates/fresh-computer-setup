@@ -35,7 +35,6 @@ brew tap caskroom/versions
 1password
 atext
 appcleaner
-authy
 backblaze
 bartender
 carbon-copy-cloner
@@ -45,6 +44,7 @@ focus
 gitup
 google-chrome
 handbrake
+intellij-idea
 iterm2-nightly
 jadengeller-helium
 java
