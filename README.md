@@ -16,6 +16,7 @@ reattach-to-user-namespace
 readline
 redis
 mysql
+bat
 ```
 
 # Vim/NeoVim
@@ -33,7 +34,7 @@ brew tap caskroom/cask
 brew tap caskroom/versions
 --
 1password
-atext
+alfred
 appcleaner
 backblaze
 bartender
@@ -44,10 +45,9 @@ focus
 gitup
 google-chrome
 handbrake
-intellij-idea
 iterm2-nightly
 jadengeller-helium
-java
+java8
 kaleidoscope
 launchbar
 little-snitch
@@ -83,12 +83,6 @@ vlc
 ```
 rbenv
 oh-my-zsh
-```
-
-# Manual downloads
-
-```
-fantastical # Download older version
 ```
 
 # Font
