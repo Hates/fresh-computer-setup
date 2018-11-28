@@ -40,7 +40,6 @@ brew install --HEAD --with-release neovim/neovim/neovim
 1password6
 alfred
 appcleaner
-backblaze
 bartender
 carbon-copy-cloner
 dropbox
@@ -52,7 +51,6 @@ iterm2-nightly
 java
 java8
 kaleidoscope
-little-snitch
 mailplane
 monodraw
 ngrok
@@ -80,6 +78,10 @@ vlc
 ```
 rbenv
 oh-my-zsh
+
+backblaze
+scansnap
+little snitch
 ```
 
 # Font
