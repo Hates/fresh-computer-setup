@@ -60,21 +60,19 @@ onyx
 omnidisksweeper
 paw
 postgres
+rar
 sequel-pro-nightly
 skitch
 skype
 slack-beta
-slicy
 soulver
 spotify
 steermouse
 tower
 transmit
-unrarx
 viscosity
 visual-studio-code
 vlc
-homebrew/cask-drivers/fujitsu-scansnap-manager-s1300
 ```
 
 # Misc installs
