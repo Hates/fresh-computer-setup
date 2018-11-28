@@ -49,7 +49,6 @@ google-chrome
 firefox-nightly
 handbrake
 iterm2-nightly
-jadengeller-helium
 java
 java8
 kaleidoscope
@@ -61,7 +60,6 @@ onyx
 omnidisksweeper
 paw
 postgres
-scansnap-manager
 sequel-pro-nightly
 skitch
 skype
@@ -76,6 +74,7 @@ unrarx
 viscosity
 visual-studio-code
 vlc
+homebrew/cask-drivers/fujitsu-scansnap-manager-s1300
 ```
 
 # Misc installs
