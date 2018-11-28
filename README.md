@@ -1,6 +1,14 @@
 # fresh-computer-setup
 A collection of packages that I use to get up and running with a fresh install. Quite important when running a Hackintosh :sweat:
 
+# Homebrew setup
+
+```
+brew tap homebrew/services
+brew tap caskroom/cask
+brew tap caskroom/versions
+```
+
 # Homebrew installs
 
 ```
@@ -8,14 +16,14 @@ git
 fzf
 tmux
 macvim
+reattach-to-user-namespace
 ctags
 imagemagick
 the_silver_searcher
 zsh-syntax-highlighting
-reattach-to-user-namespace
 readline
 redis
-mysql
+mysql@5.7
 bat
 ```
 
@@ -29,10 +37,6 @@ brew install --HEAD --with-release neovim/neovim/neovim
 # Homebrew cask installs
 
 ```
---
-brew tap caskroom/cask
-brew tap caskroom/versions
---
 1password6
 alfred
 appcleaner
