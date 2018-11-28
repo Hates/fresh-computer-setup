@@ -60,7 +60,6 @@ paw
 postgres
 rar
 sequel-pro-nightly
-skitch
 skype
 slack-beta
 soulver
