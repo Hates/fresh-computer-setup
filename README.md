@@ -50,6 +50,7 @@ handbrake
 iterm2-nightly
 java
 java8
+jetbrains-toolbox
 kaleidoscope
 mailplane
 monodraw
