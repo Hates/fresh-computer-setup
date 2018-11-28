@@ -77,6 +77,7 @@ vlc
 
 ```
 rbenv
+ruby-build
 oh-my-zsh
 
 backblaze
