@@ -12,19 +12,21 @@ brew tap caskroom/versions
 # Homebrew installs
 
 ```
-git 
-fzf
-tmux
-macvim
-reattach-to-user-namespace
-ctags
-imagemagick
-the_silver_searcher
-zsh-syntax-highlighting
-readline
-redis
-mysql@5.7
 bat
+ctags
+fzf
+git
+imagemagick
+macvim
+mysql@5.7
+neovim
+python3
+readline
+reattach-to-user-namespace
+redis
+the_silver_searcher
+tmux
+zsh-syntax-highlighting
 ```
 
 # Vim/NeoVim
