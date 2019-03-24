@@ -19,6 +19,7 @@ git
 gron
 httpie
 imagemagick
+jq
 macvim
 mysql@5.7
 neovim
