@@ -16,6 +16,8 @@ bat
 ctags
 fzf
 git
+gron
+httpie
 imagemagick
 macvim
 mysql@5.7
