@@ -42,7 +42,7 @@ brew install --HEAD --with-release neovim/neovim/neovim
 # Homebrew cask installs
 
 ```
-1password6
+1password
 alfred
 appcleaner
 bartender
@@ -50,7 +50,7 @@ carbon-copy-cloner
 dropbox
 focus
 google-chrome
-firefox-nightly
+firefox
 handbrake
 iterm2-nightly
 java
