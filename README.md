@@ -46,14 +46,13 @@ brew install --HEAD --with-release neovim/neovim/neovim
 alfred
 appcleaner
 bartender
+better-touch-tool
 carbon-copy-cloner
 google-chrome
 firefox
-handbrake
 iterm2
-java
-java8
 jetbrains-toolbox
+keyboard-maestro
 mailplane
 ngrok
 omnidisksweeper
